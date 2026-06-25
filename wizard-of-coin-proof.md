@@ -4,8 +4,7 @@
 https://explorer-studio.genlayer.com/address/0xB0689e87eB9d3d6A210623C30FC4bF0307EB2d69
 
 ## Transaction Hash
-https://explorer-studio.genlayer.com/tx/0x8dbb1a11c43936da7ce98178729ae5be6d569757f9a4da117055b18447c0a22a
-
+https://explorer-studio.genlayer.com/tx/0x767d95d466eb785f148dc73a81902fee192c1f7c2a391817c1b1154c6493e55c
 ## Interactions
 
 ### Read Method
